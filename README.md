@@ -49,7 +49,7 @@ This Flask project is designed to provide Blog and User management functionaliti
 
    ```bash
    git clone https://github.com/rachit-patel-dev/flask-work-sample.git
-   cd user_management_project
+   cd flask-work-sample
    ```
 
 2. Install dependencies:
